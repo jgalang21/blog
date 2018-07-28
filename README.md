@@ -16,6 +16,13 @@ Username: dhh
 Password: secret  
 
 
+Most of the ruby code that I have written can be found in these directories:  
+/rails-blog/app/controllers/  
+/rails-blog/app/models/  
+
+The rest of the html.erb files in project were provided to me. 
+
+
 Screenshot of the blog homepage:  
 [![Screen_Shot_2018-07-28_at_5.28.22_PM.png](https://s15.postimg.cc/5nmjax36j/Screen_Shot_2018-07-28_at_5.28.22_PM.png)](https://postimg.cc/image/eindlfryv/)
 
