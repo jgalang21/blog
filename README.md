@@ -1,4 +1,4 @@
-# A simple blog written using Ruby on Rails  
+# Creating a simple blog using Ruby on Rails  
 
 All credit belongs to RailsGuides. I simply chose to follow the steps on this site to guide me in creating this project.    
 
