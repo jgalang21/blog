@@ -1,4 +1,6 @@
+
 class Article < ApplicationRecord
-	 validates :title, presence: true,
-                    length: { minimum: 5 }#min. of 5 character for the title
+  has_many :comments, dependent: :destroy
+  validates :title, presence: true,
+                    length: { minimum: 5 }
 end
