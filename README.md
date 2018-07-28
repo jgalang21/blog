@@ -25,7 +25,7 @@ Screenshot of the article page:
 
 
 
-#Installation
+# Installation
 
 1. Clone/Download this repository.
 2. Using Command Prompt (or terminal if you're on a Mac), navigate to the blog folder directory. 
