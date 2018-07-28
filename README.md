@@ -3,31 +3,46 @@
 All credit belongs to RailsGuides. I simply chose to follow the steps on this site to guide me in creating this project.    
 
 
+
+
 The URL on how to create this project can be found here:   
 https://guides.rubyonrails.org/getting_started.html  
+
+
+
 
 
 This repository contains the source code used in creating my first rails project. It's a very simple blog that allows users to post/edit/delete articles they've written, and others are allowed to comment on it. It only allows registered users to create new posts, provided they have a login. This ensures that only specific users can make posts, and no one can edit another user's post. 
 
 
 
+
+
 In this case, the login that we will be using for demonstration purposes will be:  
 Username: dhh  
-Password: secret  
+Password: secret    
+
+
+
 
 
 Most of the ruby code that I have written can be found in these directories:  
 /rails-blog/app/controllers/  
-/rails-blog/app/models/  
+/rails-blog/app/models/    
 
-The rest of the html.erb files in project were provided to me. 
+
+
+The rest of the html.erb files in project were provided to me.    
+
+
 
 
 Screenshot of the blog homepage:  
-[![Screen_Shot_2018-07-28_at_5.28.22_PM.png](https://s15.postimg.cc/5nmjax36j/Screen_Shot_2018-07-28_at_5.28.22_PM.png)](https://postimg.cc/image/eindlfryv/)
+[![Screen_Shot_2018-07-28_at_5.28.22_PM.png](https://s15.postimg.cc/5nmjax36j/Screen_Shot_2018-07-28_at_5.28.22_PM.png)](https://postimg.cc/image/eindlfryv/)  
 
 
-Screenshot of the article page:  
+
+Screenshot of the article page:     
 [![Screen_Shot_2018-07-28_at_5.27.34_PM.png](https://s15.postimg.cc/9jzv6wvvv/Screen_Shot_2018-07-28_at_5.27.34_PM.png)](https://postimg.cc/image/everrmhyf/)
 
 
