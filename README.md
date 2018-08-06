@@ -50,9 +50,9 @@ Screenshot of the article page:
 # Installation
 
 1. Clone/Download this repository.
-2. Using Command Prompt (or terminal if you're on a Mac), navigate to the blog folder directory. 
+2. Using Command Prompt (or terminal if you're on a Mac), navigate to the location where you downloaded the file. It should be the blog folder.  
 3. Once you've navigated to the blog folder, run the command "bin/rails server".  
-Note: You may need to install rails/ruby for this to work.  
+(Note: You may need to install rails/ruby on your computer for this to work, which can be found here: https://www.ruby-lang.org/en/downloads/)  
 4. Open up a browser, and use this link to navigate to the blog: http://localhost:3000/articles/  
 5. The blog should be working now! Remember, if you want to create a new post, your browser will prompt you for a user and password. (Again, the user is dhh and the pasword is secret)
 
